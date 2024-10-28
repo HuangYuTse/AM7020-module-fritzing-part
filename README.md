@@ -21,12 +21,12 @@ Specification Hardware Features
 Model: AM7020
 Antenna Type: IPEX connect  
 Major Chipset: SIM7020E  
-Power Supply: 5~24V V  
+Power Supply: 5 ~ 24V V  
 Dimension: 62 25.4mm (LxW)  
 Frequency Range:B1/B3/B5/B8/B20/B28  
 Communication Protocol:HTTP(S)/MQTT(S)/TCP/UDP....  
 AT Commands:V.25TER, 3GPP TS 27.007, and SIMCOM AT Commands)  
-Baudrate:300bps~921600bps  
+Baudrate:300bps ~ 921600bps  
 Pin position and size support Arduino MKR series products  
 
 [buy it (icshop)](https://www.icshop.com.tw/products/368030200686)  
