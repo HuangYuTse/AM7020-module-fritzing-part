@@ -7,6 +7,8 @@ Due to an error in the design of the grove socket in v1.0, this fritzing part wi
 
 This is AM7020 v1.0 fritzing part  
 ![圖例](./AM7020_v1.0/AM7020_SIM7020E.svg)  
+This is AM7020 v1.1 fritzing part  
+![圖例](./AM7020_v1.1/AM7020_SIM7020E.svg)  
 你可以自由使用這個fritzing part，但是請標註作者  
 You are free to use this fritzing part(by giving me a star  and mark the author)  
 
